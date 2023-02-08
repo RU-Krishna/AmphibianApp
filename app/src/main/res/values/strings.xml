@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Amphibians</string>
+    <string name="errormessage">You are Offline</string>
+    <string name="button_msg">Retry</string>
+    <string name="error_msg">Can\'t Load Image</string>
+    <string name="placeholder_msg">Loading</string>
+</resources>
